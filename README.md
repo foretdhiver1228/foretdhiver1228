@@ -18,6 +18,8 @@
 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foretdhiver1228&layout=compact&exclude_repo=github-readme-stats,foretdhiver1228.github.io)](https://github.com/foretdhiver1228/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foretdhiver1228&show_icons=true&theme=transparent)
 
 
