@@ -1,13 +1,23 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/js-FFFFFF?style=for-the-badge&logo=javascript.svg&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/jquery-FFFFFF?style=for-the-badge&logo=jquery.svg&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/oracle-FFFFFF?style=for-the-badge&logo=oracle.svg&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/spring-FFFFFF?style=for-the-badge&logo=spring.svg&logoColor=F7DF1E">
+- 🔭 I’m currently working on ...
+//Java
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+//MysQL
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+//Oracle
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+//Eclipse
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+//Spring
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 - 🌱 I’m currently learning ...
-<img src="https://img.shields.io/badge/react-FFFFFF?style=for-the-badge&logo=react.svg&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/springboot-FFFFFF?style=for-the-badge&logo=springboot.svg&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+
+
+
 <!--
 **foretdhiver1228/foretdhiver1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
