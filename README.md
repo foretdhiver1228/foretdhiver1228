@@ -1,8 +1,9 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/js-FFFFFF?style=for-the-badge&logo=javascript.svg&logoColor=F7DF1E"/>
 
 <!--
 **foretdhiver1228/foretdhiver1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://img.shields.io/badge/js-FFFFFF?style=for-the-badge&logo=javascript.svg&logoColor=F7DF1E"/>
+
 
 Here are some ideas to get you started:
 
