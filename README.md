@@ -1,6 +1,13 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/js-FFFFFF?style=for-the-badge&logo=javascript.svg&logoColor=F7DF1E"/>
 
+<img src="https://img.shields.io/badge/js-FFFFFF?style=for-the-badge&logo=javascript.svg&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/jquery-FFFFFF?style=for-the-badge&logo=jquery.svg&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/oracle-FFFFFF?style=for-the-badge&logo=oracle.svg&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/spring-FFFFFF?style=for-the-badge&logo=spring.svg&logoColor=F7DF1E">
+
+- 🌱 I’m currently learning ...
+<img src="https://img.shields.io/badge/react-FFFFFF?style=for-the-badge&logo=react.svg&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/springboot-FFFFFF?style=for-the-badge&logo=springboot.svg&logoColor=F7DF1E">
 <!--
 **foretdhiver1228/foretdhiver1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
